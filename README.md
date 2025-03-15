@@ -16,10 +16,16 @@ Also I have created endpoints in urls.py and view functions in views.py but http
 Added templates, models, migrations.
 
 ## Run API
-- create project folder
-- cd project folder
-- create virtual environment and activate it
-- install djangorestframework
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/OleksiiUzu/django-api-homework-12.git
+   cd django-api-homework-12
+2.(Optional) Create and activate a virtual environment:
+  python -m venv venv
+  source venv/bin/activate
 
-run command in terminal:
-  - python manage.py runserver
+3.Install dependencies:
+  pip install -r requirements.txt
+
+4.run command:
+    python manage.py runserver
