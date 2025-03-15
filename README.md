@@ -11,9 +11,9 @@ I have added four app`s to the project:
     - blog
     - animals
 
-Those apps registered in pet_shelter/settings.py
+Those apps registered in pet_shelter/settings.py.
 Also I have created endpoints in urls.py and view functions in views.py but http methods are not implemented yet.
-Added templates, models, migrations
+Added templates, models, migrations.
 
 ## Run API
 - create project folder
